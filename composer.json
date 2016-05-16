@@ -1,0 +1,17 @@
+{
+    "name": "wilsonxie1991/php-regex",
+    "description": "PHP  regex ",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wilsonxie1991",
+            "email":"wilsonxie1991@gmail.com"
+        }
+    ],
+    "require": {
+        "php":">=5.3"
+    },
+    "autoload": {
+        "psr-4": {"Test\\": "src/Test"}
+    }
+}
